@@ -6,6 +6,7 @@
     border-radius: 3px;
     box-shadow: 0 1.5rem 4rem rgba($color-black, .15); 
     transition: all .2S;
+    
     &__icon {
         display: inline-block;
         font-size: 6rem;
@@ -17,7 +18,7 @@
     }
 
     &:hover {
-        transform: scale(1.1) translateY(-2rem);
+        transform: scale(1.05) translateY(-2rem);
         box-shadow: 0 2.5rem 4rem rgba($color-black, .3);
     }
 }
