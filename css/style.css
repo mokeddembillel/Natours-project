@@ -232,7 +232,7 @@ body {
     -webkit-background-clip: text;
     color: transparent; }
   .feature-box:hover {
-    transform: scale(1.1) translateY(-2rem);
+    transform: scale(1.05) translateY(-2rem);
     box-shadow: 0 2.5rem 4rem rgba(0, 0, 0, 0.3); }
 
 .story {
