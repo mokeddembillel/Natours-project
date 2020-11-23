@@ -1,2 +1,2 @@
 # Natours-project
-a Website that i made to develop my skills in html and advanced css (SASS), and also organising a big project files (Animations, CSS grid,...) 
+A Webpage that i made when i was looking to develop my skills in CSS and SASS, but i got more, i learned also how to organize and name css files for big projects, and of course without forgeting all types of CSS animations 
